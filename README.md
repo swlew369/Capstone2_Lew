@@ -24,30 +24,43 @@ code used to parse FASTA files for each function and location class
 
 [FASTA Parser for Golgi proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Golgi_Fasta_Parser.ipynb)
 
-[FASTA Parser for Immune System proteins ]()
+[FASTA Parser for Immune System proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Immune_Fasta_Parser.ipynb)
 
-[FASTA Parser for Iron-Sulfur Cluster proteins ]()
+[FASTA Parser for Iron-Sulfur Cluster proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_IronSulfurCluster_Fasta_Parser.ipynb)
 
-[FASTA Parser for Isomerase proteins ]()
+[FASTA Parser for Isomerase proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Isomerase_Fasta_Parser.ipynb)
 
-[FASTA Parser for Lipid Binding proteins ]()
+[FASTA Parser for Lipid Binding proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_LipidBinding_Fasta_Parser.ipynb)
 
-[FASTA Parser for Lysosome proteins ]()
+[FASTA Parser for Lysosome proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Lysosome_Fasta_Parser.ipynb)
 
-[FASTA Parser for Oxidoreductase proteins ]()
+[FASTA Parser for Oxidoreductase proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Oxidoreductase_Fasta_Parser.ipynb)
 
-[FASTA Parser for Plasma Membrane proteins ]()
+[FASTA Parser for Plasma Membrane proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Plasma-Membrane_Fasta_Parser.ipynb)
 
-[FASTA Parser for Transferase proteins ]()
+[FASTA Parser for Transferase proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Transferase_Fasta_Parser.ipynb)
 
-[FASTA Parser for Transporter proteins ]()
+[FASTA Parser for Transporter proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Transport_Fasta_Parser.ipynb)
 
-[FASTA Parser for Hydrolase proteins ]()
+[FASTA Parser for Hydrolase proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_hydrolase_Fasta_Parser.ipynb)
 
-[FASTA Parser for Ligase proteins ]()
+[FASTA Parser for Ligase proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_ligase_Fasta_Parser.ipynb)
 
 
 **Exploratory Data Analysis**
+
+The following links are for Jupyter Notebooks
+used for Exploratory Data Analysis
+
+[EDA: Most Common Peptides For Functional Classes ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Protein_11-Functions_EDA-Part2.ipynb)
+
+[EDA: Most Common Peptides For Cellular Location Classes ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Protein-Locations_EDA_1.ipynb)
+
+[EDA: Fuzzy Wuzzy Analysis of Hydrolase & Transporter Proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_EDA_Protein_Hydrolase-Transporter_Model_FuzzyWuzzyAnalysis.ipynb)
+
+
+**Machine Learning**
+
 
 
 
