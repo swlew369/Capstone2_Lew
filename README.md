@@ -61,6 +61,10 @@ used for Exploratory Data Analysis
 
 **Machine Learning**
 
+The following links are for the Jupyter Notebooks
+that were used for Supervised Machine Learning Classification
+of proteins in this project.
+
 [Machine Learning Classification of Protein Functions using Logistic Regression](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinFunctions-LogisticRegression.ipynb)
 
 [Machine Learning Classification of Protein Cellular Locations using Logistic Regression](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinLocations_LogisticRegression.ipynb)
