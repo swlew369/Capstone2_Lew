@@ -61,6 +61,15 @@ used for Exploratory Data Analysis
 
 **Machine Learning**
 
+[Machine Learning Classification of Protein Functions using Logistic Regression](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinFunctions-LogisticRegression.ipynb)
+
+[Machine Learning Classification of Protein Cellular Locations using Logistic Regression](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinLocations_LogisticRegression.ipynb)
+
+[Machine Learning Classification of Protein Functions using Majority Voting Classifier](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinFunctions_MajorityVoting_Classifier.ipynb)
+
+[Machine Learning Classification of Protein Cellular Locations using Majority Voting Classifier](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinLocations-MajorityVotingClassifier.ipynb)
+
+
 
 
 
