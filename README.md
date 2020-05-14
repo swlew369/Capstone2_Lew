@@ -10,7 +10,7 @@ Count Vectors associated with each protein are used
 to train Machine Learning models that predict the function
 and cellular location.
 
-#Data Wrangling:
+#Data Wrangling:#
 The following links are for Jupyter Notebooks with the Python
 code used to parse FASTA files for each function and location class
 
@@ -47,7 +47,7 @@ code used to parse FASTA files for each function and location class
 [FASTA Parser for Ligase proteins ]()
 
 
-#Exploratory Data Analysis
+#Exploratory Data Analysis#
 
 
 
