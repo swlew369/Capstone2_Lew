@@ -20,9 +20,9 @@ code used to parse FASTA files for each function and location class
 
 [FASTA Parser for DNA Binding proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_DNA-Binding_Fasta_Parser.ipynb)
 
-[FASTA Parser for Endoplasmic Reticulum (ER) proteins ]()
+[FASTA Parser for Endoplasmic Reticulum (ER) proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_ER_Fasta_Parser.ipynb)
 
-[FASTA Parser for Golgi proteins ]()
+[FASTA Parser for Golgi proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Golgi_Fasta_Parser.ipynb)
 
 [FASTA Parser for Immune System proteins ]()
 
