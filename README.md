@@ -16,9 +16,9 @@ code used to parse FASTA files for each function and location class
 
 [FASTA Parser for ABC transporter ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_ABC_Fasta_Parser.ipynb)
 
-[FASTA Parser for Cytoplasm proteins ]()
+[FASTA Parser for Cytoplasm proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_Cytoplasm_Fasta_Parser.ipynb)
 
-[FASTA Parser for DNA Binding proteins ]()
+[FASTA Parser for DNA Binding proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_Acq_DNA-Binding_Fasta_Parser.ipynb)
 
 [FASTA Parser for Endoplasmic Reticulum (ER) proteins ]()
 
