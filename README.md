@@ -60,9 +60,8 @@ used for Exploratory Data Analysis
 
 **Dataset**
 
-The following links are the labelled 
-datasets used for Machine Learning in this project
-in the form of csv files.
+The data in the form of csv files used in
+this project were too large to upload to Github.
 
 **Machine Learning**
 
@@ -79,7 +78,9 @@ of proteins in this project.
 [Machine Learning Classification of Protein Cellular Locations using Majority Voting Classifier](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinLocations-MajorityVotingClassifier.ipynb)
 
 
+**Slide Deck**
 
+**Capstone 2 Report**
 
 
 
