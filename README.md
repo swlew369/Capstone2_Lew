@@ -58,6 +58,10 @@ used for Exploratory Data Analysis
 
 [EDA: Fuzzy Wuzzy Analysis of Hydrolase & Transporter Proteins ](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_EDA_Protein_Hydrolase-Transporter_Model_FuzzyWuzzyAnalysis.ipynb)
 
+**Dataset**
+The following links are the labelled 
+datasets used for Machine Learning in this project
+in the form of csv files.
 
 **Machine Learning**
 
