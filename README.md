@@ -1,4 +1,4 @@
-# Capstone2_Lew
+# Capstone 2 Scott Lew
 Machine Learning Classification of Proteins, Bioinformatics
 
 SpringBoard Capstone Project
