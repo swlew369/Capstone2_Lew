@@ -82,7 +82,7 @@ of proteins in this project.
 
 [Capstone 2 Slide Deck as pdf file](https://github.com/swlew369/Capstone2_Lew/blob/master/Capstone_2_Lew_SlideDeck.pdf)
 
-**Capstone 2 Milestone Report**
+**Capstone 2 Milestone Report 1**
 
 [Capstone 2 Milestone Report 1 as pdf file](https://github.com/swlew369/Capstone2_Lew/blob/master/Capstone_2_Milestone_Report-1_Lew.pdf)
 
