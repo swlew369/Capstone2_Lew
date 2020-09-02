@@ -77,6 +77,7 @@ of proteins in this project.
 
 [Machine Learning Classification of Protein Cellular Locations using Majority Voting Classifier](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinLocations-MajorityVotingClassifier.ipynb)
 
+Note: A Simple Neural Network model for predicting protein cellular location was built
 [Neural Network Classifier of Protein Cellular Locations using three amino acid, tripeptide, count](https://github.com/swlew369/Capstone2_Lew/blob/master/Cap2_ML_ProteinLocations_Neural_Network_3.ipynb)
 
 
